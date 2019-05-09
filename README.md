@@ -1,5 +1,7 @@
 # Algo Rithms Challenge // sum of intervals
 
+Cake and grief counseling will be available at the conclusion of the test.
+
 ## 1. Getting started
   `git clone https://github.com/Metternich11/sum-intervals.git`
 
@@ -25,3 +27,9 @@ and then run `npm t` to run the automated tests.
 To submit your solution:
 
 1. If you're working on a forked repo, push your changes to your forked repo and submit a pull request to this repo.
+
+#### the cake is a lie
+#### the cake is a lie
+#### the cake is a lie
+#### the cake is a lie
+#### the cake is a lie
