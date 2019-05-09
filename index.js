@@ -1,4 +1,6 @@
-// Sum of Intervals
+// TEST: Sum of Intervals
+
+// Cake and grief counseling will be available at the conclusion of the test.
 
 // CHALLENGE
 
@@ -27,4 +29,7 @@ function sumIntervals(intervals) {
 
 }
 
+// the cake is a lie
+// the cake is a lie
+// the cake is a lie
 module.exports = sumIntervals;
